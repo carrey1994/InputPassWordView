@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SecretInputView">
+        <attr name="digit_length" format="integer"/>
+        <attr name="gap_width" format="dimension"/>
+        <attr name="rect_width" format="dimension"/>
+        <attr name="border_color" format="color"/>
+        <attr name="dot_color" format="color"/>
+        <attr name="start_gap" format="dimension"/>
+    </declare-styleable>
+</resources>
